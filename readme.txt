@@ -1,3 +1,3 @@
-This is a test project efor git
+This is a test project for git
 Demo
 dev branch
